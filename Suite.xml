@@ -1,0 +1,8 @@
+<suite name="seleniumcn.cn.demo">    
+    <test name="test_seleniumcn" >
+        <classes>
+            <class name="pageobject.TestAmazon2"/>
+            <class name="pageobject.Test163_testNG"/>                
+        </classes>
+    </test>  
+</suite>
